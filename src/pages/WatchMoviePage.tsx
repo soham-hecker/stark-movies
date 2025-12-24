@@ -198,7 +198,7 @@ export default function WatchMoviePage() {
             className="h-9 px-6 glass gap-2"
           >
             <Share2 className="w-4 h-4" />
-            Share
+            Share with Friends
           </Button>
 
           <p className="text-muted-foreground text-xs text-center max-w-md">

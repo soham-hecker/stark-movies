@@ -74,7 +74,7 @@ export const HOME_PAGE_DATA: MediaItem[] = [
     imdb_id: "tt0133093",
     title: "The Matrix",
     cast: "Keanu Reeves, Laurence Fishburne",
-    thumbnail_url: "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4XkEyXkFqcGc@._V1_.jpg",
+    thumbnail_url: "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
     type: "movie",
     rating: "87%",
     description: "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
